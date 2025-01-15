@@ -1,6 +1,6 @@
 @DreamEduConsultancy_HostAddress = http://localhost:5179
 
-GET {{DreamEduConsultancy_HostAddress}}/weatherforecast/
+GET {{DreamEduConsultancy_HostAddress}}/api/student/2
 Accept: application/json
 
 ###

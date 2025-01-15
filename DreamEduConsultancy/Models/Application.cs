@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace DreamEduConsultancy.Models;
 
@@ -20,12 +21,16 @@ public partial class Application
     public int ApplicationStatusId { get; set; }
 
     public DateOnly ApplicationDate { get; set; }
+    [JsonIgnore]
 
     public virtual ICollection<ApplicationReason> ApplicationReasons { get; set; } = new List<ApplicationReason>();
 
+
     public virtual ApplicationStatus ApplicationStatus { get; set; } = null!;
+    [JsonIgnore]
 
     public virtual ICollection<ApplicationUpdateLog> ApplicationUpdateLogs { get; set; } = new List<ApplicationUpdateLog>();
+    
 
     public virtual Country Country { get; set; } = null!;
 
@@ -38,6 +43,7 @@ public partial class Application
     public virtual Subject Subject { get; set; } = null!;
 
     public virtual University University { get; set; } = null!;
+    [JsonIgnore]
 
     public virtual ICollection<VisaApplication> VisaApplications { get; set; } = new List<VisaApplication>();
 }

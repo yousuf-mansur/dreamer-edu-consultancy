@@ -3,20 +3,124 @@
   "WorkspaceRootPath": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Migrations\\20250115171252_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DreamEduConsultancy\\Migrations\\20250115171252_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\vwstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\vwstudentinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\visareason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\visareason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\visaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\visaapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\universitycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\universitycourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\university.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\studentupdatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\studentupdatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\studentscholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\studentscholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\studentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\studentdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\scholarship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\intake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\intake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\counselorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\counselorstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\counselor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\counselor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\applicationupdatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\applicationupdatelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\applicationreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\applicationreason.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\data\\dreamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\data\\dreamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\migrations\\20250115171252_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\migrations\\20250115171252_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\migrations\\dreamdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\migrations\\dreamdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|d:\\isdb-bisew\\gitproject\\dreamconsultancy\\dreameduconsultancy\\dreameduconsultancy\\dreameduconsultancy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6EB0827D-99F5-46BC-9685-54E90C894E55}|DreamEduConsultancy\\DreamEduConsultancy.csproj|solutionrelative:dreameduconsultancy\\dreameduconsultancy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +146,358 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VwStudentInformation.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\VwStudentInformation.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\VwStudentInformation.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\VwStudentInformation.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\VwStudentInformation.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:23:22.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisaReason.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\VisaReason.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\VisaReason.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\VisaReason.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\VisaReason.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:23:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisaApplication.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\VisaApplication.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\VisaApplication.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\VisaApplication.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\VisaApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:23:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversityCourse.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\UniversityCourse.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\UniversityCourse.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\UniversityCourse.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\UniversityCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:23:10.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:07:23.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "University.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\University.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\University.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\University.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\University.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Subject.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Subject.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:42.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentUpdateLog.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentUpdateLog.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\StudentUpdateLog.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentUpdateLog.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\StudentUpdateLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:40.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentScholarship.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentScholarship.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\StudentScholarship.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentScholarship.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\StudentScholarship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDocument.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentDocument.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\StudentDocument.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentDocument.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\StudentDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\StudentCourse.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:35.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Scholarship.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Scholarship.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Scholarship.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Scholarship.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Scholarship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:20.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Payment.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Payment.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:18.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Gender.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Gender.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:22:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Document.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Document.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:21:54.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Course.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Course.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:21:35.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Student.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Student.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:11:04.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CounselorStudent.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\CounselorStudent.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\CounselorStudent.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\CounselorStudent.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\CounselorStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:21:20.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Counselor.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Counselor.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Counselor.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Counselor.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Counselor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:21:09.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Intake.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Intake.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Intake.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Intake.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Intake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:13:37.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationUpdateLog.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\ApplicationUpdateLog.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\ApplicationUpdateLog.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\ApplicationUpdateLog.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\ApplicationUpdateLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:21:07.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Designation.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Designation.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:13:22.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\ApplicationStatus.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\ApplicationStatus.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:20:56.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Country.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Country.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:13:19.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationReason.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\ApplicationReason.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\ApplicationReason.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\ApplicationReason.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\ApplicationReason.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:20:54.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Models\\Application.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Models\\Application.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Models\\Application.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:20:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Program.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Program.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:03:35.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "20250115171252_init.cs",
               "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Migrations\\20250115171252_init.cs",
               "RelativeDocumentMoniker": "DreamEduConsultancy\\Migrations\\20250115171252_init.cs",
@@ -50,46 +505,33 @@
               "RelativeToolTip": "DreamEduConsultancy\\Migrations\\20250115171252_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:12:52.27Z",
+              "WhenOpened": "2025-01-15T18:03:13.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Program.cs",
-              "RelativeDocumentMoniker": "DreamEduConsultancy\\Program.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Program.cs",
-              "RelativeToolTip": "DreamEduConsultancy\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "DreamDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Migrations\\DreamDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\Migrations\\DreamDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Migrations\\DreamDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DreamEduConsultancy\\Migrations\\DreamDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:11:59.499Z",
+              "WhenOpened": "2025-01-15T18:03:10.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\appsettings.json",
-              "RelativeDocumentMoniker": "DreamEduConsultancy\\appsettings.json",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\appsettings.json",
-              "RelativeToolTip": "DreamEduConsultancy\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T17:10:39.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DreamDbContext.cs",
-              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Data\\DreamDbContext.cs",
-              "RelativeDocumentMoniker": "DreamEduConsultancy\\Data\\DreamDbContext.cs",
-              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\Data\\DreamDbContext.cs",
-              "RelativeToolTip": "DreamEduConsultancy\\Data\\DreamDbContext.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAAAC4AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:31:57.46Z",
+              "DocumentIndex": 29,
+              "Title": "DreamEduConsultancy.http",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\DreamEduConsultancy.http",
+              "RelativeDocumentMoniker": "DreamEduConsultancy\\DreamEduConsultancy.http",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\DreamConsultancy\\DreamEduConsultancy\\DreamEduConsultancy\\DreamEduConsultancy.http",
+              "RelativeToolTip": "DreamEduConsultancy\\DreamEduConsultancy.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-15T17:29:07.43Z",
               "EditorCaption": ""
             }
           ]

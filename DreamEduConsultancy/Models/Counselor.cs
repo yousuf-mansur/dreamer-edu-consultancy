@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace DreamEduConsultancy.Models;
 
@@ -14,6 +15,7 @@ public partial class Counselor
     public int DesignationId { get; set; }
 
     public string CounselorFullName { get; set; } = null!;
+    [JsonIgnore]
 
     public virtual ICollection<CounselorStudent> CounselorStudents { get; set; } = new List<CounselorStudent>();
 

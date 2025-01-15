@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace DreamEduConsultancy.Models;
 
@@ -12,6 +13,7 @@ public partial class Scholarship
     public string? Description { get; set; }
 
     public decimal Amount { get; set; }
+    [JsonIgnore]
 
     public virtual ICollection<StudentScholarship> StudentScholarships { get; set; } = new List<StudentScholarship>();
 }
